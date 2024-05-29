@@ -11,36 +11,17 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 > [!CAUTION]
->
-> 紧急
+> 2024/05/27 - 2024/06/02
 
-- [ ] 脚手架
-- [ ] Modal指令式如何实现
-- [ ] 如何实现 sentry 埋点收集报错
-- [ ] 如何通过toast收集报错
-- [ ] useRequest源码
+
 
 
 
 > [!IMPORTANT]
->
-> 重要
+> long-term
 
-- [ ] 网络vpn设置
-- [ ] 图床
-  - [ ] 相同图片是否可以不用再传一次
-  - [ ] 怎么保证安全
+- [ ] ahook源码
+- [ ] ts-pattern源码
 
 ```
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 
