@@ -6,8 +6,7 @@
 
 *AI full-stack engineer — performance-critical mini programs, multi-tenant settlement, and AI-native engineering.*
 
-医药零售加盟 · 聚合支付 · 快运物流  
-7 年经验 · 淮北师范大学 · 计算机专业
+医药零售加盟 · 聚合支付 · 快运物流 · 7 年经验
 
 欢迎通过 GitHub 联系。
 
