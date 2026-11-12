@@ -1,56 +1,56 @@
+**English** · [简体中文](./README.zh-CN.md)
+
 # kecanwen
 
-**AI 全栈工程师 / 资深前端架构**
+**AI Full-Stack Engineer / Senior Frontend Architect**
 
-专注交易型产品：小程序极致性能、多租户清结算，以及 AI 驱动的工程化测试。
+Focused on transaction products: mini-program performance, multi-tenant settlement, and AI-driven test engineering.
 
-*AI full-stack engineer — performance-critical mini programs, multi-tenant settlement, and AI-native engineering.*
+Pharmaceutical retail franchise · Aggregated payments · Express logistics · 7 years
 
-医药零售加盟 · 聚合支付 · 快运物流 · 7 年经验
+Reach out via GitHub.
 
-欢迎通过 GitHub 联系。
+## Highlights
 
-## 亮点
+- **10-million-scale mini programs**: WeChat / Alipay dual-thread runtime, NPM business subpackages, memory-leak and low-end device tuning
+- **Enterprise Java full stack**: Spring Boot, Redis, RocketMQ, Nacos; multi-tenant isolation, gross-margin risk control, eventually consistent settlement
+- **AI for SE**: VLM-driven UI automation, test-case conversion pipelines, failure self-healing
+- **Funds and marketing**: rule engines, fund allocation, refund reversal, multi-party reconciliation, and loss prevention
 
-- **千万级小程序**：微信 / 支付宝双线程、NPM 业务分包、内存泄漏与千元机性能调优
-- **Java 企业级全栈**：Spring Boot、Redis、RocketMQ、Nacos；多租户隔离、毛利风控、最终一致性清结算
-- **AI for SE**：VLM 视觉驱动 UI 自动化、用例自动转化 Pipeline、失败自愈 Self-Healing
-- **资金与营销**：规则引擎、资金分摊、逆向退款、多方结算对账与防资损
+## Experience
 
-## 经历
-
-| 时间 | 领域 | 角色 |
+| Period | Domain | Role |
 | --- | --- | --- |
-| 2026.4 – 至今 | 医药零售 · 加盟数字化 | AI 全栈工程师 |
-| 2024.3 – 2026.4 | 聚合支付 · C 端小程序 | 前端工程师 |
-| 2019.6 – 2024.3 | 快运物流 · 数字化 | 前端工程师 |
+| 2026.4 – present | Pharmaceutical retail · franchise digitalization | AI Full-Stack Engineer |
+| 2024.3 – 2026.4 | Aggregated payments · consumer mini programs | Frontend Engineer |
+| 2019.6 – 2024.3 | Express logistics · digitalization | Frontend Engineer |
 
-## 代表项目
+## Selected work
 
-### 百万商户级点餐与外卖小程序
+### Million-merchant ordering and delivery mini program
 
-- NPM 微模块解耦，按业务分包
-- Prefetch 首屏，`setData` 局部更新
-- OOM 与位图优化，兼顾千元机内存
-- 弱网场景使用 SWR
+- NPM micro-module decoupling, split into business subpackages
+- First-screen prefetch and partial `setData` updates
+- OOM and bitmap optimization for low-end device memory
+- SWR on weak networks
 
-### 多租户自主营销中枢与清结算
+### Multi-tenant self-serve marketing hub and settlement
 
-- Spring Boot 全栈，接入 Nacos
-- 多租户隔离
-- Redis 防超发，毛利风控
-- RocketMQ 驱动清结算
+- Spring Boot full stack, integrated with Nacos
+- Multi-tenant isolation
+- Redis over-issuance prevention and gross-margin risk control
+- Settlement driven by RocketMQ
 
-### AI-Native UI 自动化与自愈
+### AI-native UI automation and self-healing
 
-- VLM 视觉驱动 UI 自动化测试
-- 用例自动转化 Pipeline
-- 失败自愈 Self-Healing
-- Guardrails 约束自动化边界
+- VLM-driven UI automation testing
+- Automated test-case conversion pipeline
+- Self-healing on failure
+- Guardrails on automated actions
 
-## 技能
+## Skills
 
-**后端**
+**Backend**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -60,18 +60,18 @@
 ![RocketMQ](https://img.shields.io/badge/RocketMQ-D77310?style=flat-square)
 ![Nacos](https://img.shields.io/badge/Nacos-2F54EB?style=flat-square)
 
-**前端**
+**Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![小程序](https://img.shields.io/badge/小程序-微信_%2F_支付宝-07C160?style=flat-square)
+![Mini Program](https://img.shields.io/badge/Mini_Program-WeChat_%2F_Alipay-07C160?style=flat-square)
 
-**AI for SE** · VLM UI 测试 · 用例 Pipeline · Self-Healing · Guardrails
+**AI for SE** · VLM UI testing · case pipeline · Self-Healing · Guardrails
 
-**业务** · 新零售进销存 · B2B2C 清结算 · 营销规则引擎
+**Domain** · new-retail inventory · B2B2C settlement · marketing rule engines
 
-## 近期编码
+## Recent coding
 
 <!--START_SECTION:waka-->
 
